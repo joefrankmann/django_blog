@@ -1,1 +1,3 @@
-# django_blog
+ django_blog
+second commit
+testing merge
