@@ -1,0 +1,21 @@
+#Python
+*.pyc
+*~
+__pycache__
+
+#Env
+.env
+myvenv/
+venv/
+djgrls/
+
+#Database
+db.sqlite3
+
+#Statitc folder at project root
+/static/
+
+#Visual Studio
+.vscode/
+.history/
+*.code-workspace
